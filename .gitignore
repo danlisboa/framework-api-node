@@ -1,0 +1,15 @@
+node_modules/
+package-lock.json
+.env.production
+.swp
+combined.log
+errors.log
+.vscode/
+api-comigo-finance/
+api-comigo-token/
+api-comigo-upload/
+api-comigo-products/
+api-comigo-medical-exams/
+api-comigo-medical-orders/
+api-comigo-pdf/
+certs/
